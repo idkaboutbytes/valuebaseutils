@@ -1,0 +1,15 @@
+{
+  "name": "ValueBaseUtils",
+  "tree": {
+    "$className": "DataModel",
+    "ReplicatedStorage": {
+      "$className": "ReplicatedStorage",
+      "Packages": {
+        "$className": "Folder",
+        "ValueBaseUtils": {
+          "$path": "src"
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,15 @@
+name = "idkaboutbytes/valuebaseutils"
+version = "1.0.0"
+description = "ValueBaseUtils package extracted from ValueBase."
+license = "MIT"
+authors = ["idkaboutbytes"]
+repository = "https://github.com/idkaboutbytes/valuebaseutils"
+includes = ["pesde.toml", "README.md", "CHANGELOG.md", "default.project.json", "src/**/*.luau"]
+
+[target]
+environment = "roblox"
+lib = "src/init.luau"
+build_files = ["src"]
+
+[wally_indices]
+default = "https://github.com/UpliftGames/wally-index"
